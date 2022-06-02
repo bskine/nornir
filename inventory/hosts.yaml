@@ -1,0 +1,8 @@
+---
+alp-test_switch-01:
+  hostname: 10.0.0.11
+  port: 22
+  platform: ios
+  groups:
+    - 'alpine'
+    - 'switches'

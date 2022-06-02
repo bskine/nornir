@@ -1,0 +1,15 @@
+---
+alpine:
+  platform: ios
+  username: cisco
+  password: cisco
+
+switches:
+  platform: ios
+  username: cisco
+  password: cisco
+
+defaults:
+  platform: ios
+  username: cisco
+  password: cisco
