@@ -1,6 +1,6 @@
 ---
 alp-test_switch-01:
-  hostname: 10.0.0.11
+  hostname: 10.27.12.252
   port: 22
   platform: ios
   groups:

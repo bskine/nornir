@@ -1,15 +1,15 @@
 ---
 alpine:
   platform: ios
-  username: cisco
-  password: cisco
+  username: cisco123
+  password: cisco123
 
 switches:
   platform: ios
-  username: cisco
-  password: cisco
+  username: cisco123
+  password: cisco123
 
 defaults:
   platform: ios
-  username: cisco
-  password: cisco
+  username: cisco123
+  password: cisco123
