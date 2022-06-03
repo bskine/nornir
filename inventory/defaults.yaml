@@ -1,6 +1,5 @@
 ---
 platform: ios
-
+port: 22
 username: cisco123
-
 password: cisco123
